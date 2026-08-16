@@ -183,12 +183,3 @@ Local earnings are associated with London rental prices, but earnings alone expl
 
 The analysis also highlights substantial differences in how rents compare with earnings locally, with Brent emerging as one of the strongest relative outliers alongside traditionally expensive central London boroughs.
 
-
-
-That is enough for the repo. I’d keep it like this rather than turning a 60 to 90 minute project into a dissertation 😂.
-
-
-
-
-```text
-Monthly earnings = Median weekly earnings × 52 / 12
